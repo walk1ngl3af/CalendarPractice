@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.box-one {
+    background-color: red;
+    padding: 20px;
+    border: 20px solid purple;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+}
+.box-two {
+    background-color: blue;
+    padding: 20px;
+    border: 20px solid purple;
+    margin: 70px;
+    height: 25%;
+    width: 25%;
+}
+table {
+    width: 100%;
+}
+h1 {
+    text-align: center;
+}
+td, th {
+    border: 2px solid black;
+    width: 14.27%
+}
+th {
+    padding: 8px 0;
+}
+td {
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+.weekend {
+    background-color: purple;
+    color: white;
+}
+.summerweekdays {
+    background-color: greenyellow;
+}
+.rally {
+    background-color: gray;
+}
+.regular {
+    background-color: indianred;
+}
